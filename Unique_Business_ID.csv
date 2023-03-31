@@ -1,10 +1,19 @@
-Transaction ID,Business
-MEB1B,Katalytica
-MNQJ2,Karbucks
-V69LI,Katara Jewels
-BRHU3,Elite Jewels
-FQNWA,Karvin Kueen
-84SY9,Katar Spirits
-K4TQ1,Shut Down Business Revenue
-4F2U7,Elite Couture
-AMLVR,Kalico Midtown
+Transaction ID,Business,Status,Last Operational Day
+19CI3,Karbucks,Inactive,75
+4PGM3,Katara Jewels,Inactive,129
+FAV7U,Andy's Diamonds,Inactive,247
+TJ27F,Katar Spirits,Inactive,287
+KOW8E,Karbucks HK,Inactive,287
+K3NN0,Karvin Kueen,Inactive,300
+WK7WS,Katalytica,Inactive,310
+IRVXZ,Phillip Web Design,Inactive,328
+UI5RK,Katar Midtown,Active,364
+VJV6J,Katalytica Midtown,Active,364
+1BQN9,Karvin Kween,Active,364
+HQXBV,The Green Salad,Active,364
+00AKO,Karakata Associates,Active,364
+9YO0R,Kalico Midtown,Active,364
+CGCEK,Elite Jewels,Active,364
+YVK4E,Elite Couture,Active,364
+9Y0J1,Katalytica HK,Active,364
+G8MHU,The Suits Law Firm,Active,364
