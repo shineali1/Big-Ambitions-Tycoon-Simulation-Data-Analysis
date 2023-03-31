@@ -1,0 +1,832 @@
+Account,Day,Details,Amount,Transaction ID,Business Name
+Marketing campaigns for Elite Couture,179,Marketing,-100.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),179,Wage,-144.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),179,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,179,Revenue,19814.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,179,Marketing,-6000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,179,Marketing,-2500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,179,Marketing,-500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,179,Marketing,-250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,179,Marketing,-500.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),180,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),180,Wage,-288.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),180,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,180,Revenue,35500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,180,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),181,Wage,-270.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),181,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,181,Revenue,37750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,181,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),182,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),182,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,182,Revenue,37750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,182,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),183,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),183,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,183,Revenue,34750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,183,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),184,Wage,-54.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),184,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),184,Wage,-132.0,2.0,Elite Couture
+Elite Couture Revenue,184,Revenue,31750.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),184,Wage,-216.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,184,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),185,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),185,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),185,Wage,-66.0,2.0,Elite Couture
+Elite Couture Revenue,185,Revenue,28750.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),185,Wage,-54.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,185,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),186,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),186,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,186,Revenue,31750.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),186,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,186,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),187,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),187,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,187,Revenue,37500.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),187,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,187,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),188,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),188,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,188,Revenue,45000.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),188,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,188,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),189,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),189,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,189,Revenue,37000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,189,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),190,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,190,Revenue,31500.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),190,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,190,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),191,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),191,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),191,Wage,-132.0,2.0,Elite Couture
+Elite Couture Revenue,191,Revenue,29000.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),191,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,191,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),192,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),192,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),192,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),192,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,192,Revenue,25750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,192,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),193,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),193,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,193,Revenue,29000.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),193,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,193,Marketing,-1350.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,194,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),201,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),201,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),201,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,201,Revenue,33000.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),202,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),202,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,202,Revenue,44750.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),202,Wage,-72.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,202,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),203,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,203,Revenue,37500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,203,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),203,Wage,-232.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),204,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),204,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,204,Revenue,32750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,204,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),205,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),205,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),205,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),205,Wage,-132.0,2.0,Elite Couture
+Elite Couture Revenue,205,Revenue,31500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,205,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),206,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),206,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),206,Wage,-54.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),206,Wage,-66.0,2.0,Elite Couture
+Elite Couture Revenue,206,Revenue,27250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,206,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),207,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),207,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),207,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,207,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,207,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),208,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),208,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),208,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,208,Revenue,35500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,208,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),209,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),209,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),209,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,209,Revenue,45000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,209,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),210,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),210,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,210,Revenue,37000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,210,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,211,Revenue,33000.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),211,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),211,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,211,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),212,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),212,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),212,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),212,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,212,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,212,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),213,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),213,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),213,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),213,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,213,Revenue,27500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,213,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),214,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),214,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),214,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,214,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,214,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),215,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),215,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),215,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,215,Revenue,37250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,215,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),216,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),216,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),216,Wage,-72.0,2.0,Elite Couture
+Elite Couture Revenue,216,Revenue,45000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,216,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),217,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),217,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,217,Revenue,37750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,217,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),218,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),218,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,218,Revenue,35250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,218,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),219,Wage,-132.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),219,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),219,Wage,-54.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),219,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,219,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,219,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),220,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),220,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),220,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),220,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,220,Revenue,25500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,220,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),221,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),221,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),221,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,221,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,221,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),222,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),222,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),222,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,222,Revenue,38000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,222,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),223,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),223,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),223,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,223,Revenue,44750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,223,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),224,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),224,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,224,Revenue,37500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,224,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,225,Revenue,36500.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),225,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),225,Wage,-297.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,225,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),226,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),226,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),226,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),226,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,226,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,226,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),227,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),227,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),227,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),227,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,227,Revenue,27500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,227,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),228,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),228,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),228,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,228,Revenue,33000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,228,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),229,Wage,-264.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),229,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),229,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,229,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,229,Revenue,38000.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),230,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),230,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,230,Revenue,45000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,230,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),231,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),231,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,231,Revenue,37500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,231,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),232,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),232,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,232,Revenue,36500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,232,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,233,Revenue,12000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,233,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),233,Wage,-132.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),233,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),233,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,234,Revenue,29000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,234,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),234,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),234,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),234,Wage,-54.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),235,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),235,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,235,Revenue,33000.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),235,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,235,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,236,Revenue,38000.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),236,Wage,-264.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),236,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),236,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,236,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,237,Revenue,27500.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),237,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),237,Wage,-72.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,237,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),238,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),238,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,238,Revenue,39250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,238,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,239,Revenue,36500.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),239,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),239,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,239,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,240,Revenue,33000.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),240,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),240,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),240,Wage,-132.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,240,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),240,Wage,-54.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),241,Wage,-66.0,2.0,Elite Couture
+Elite Couture Revenue,241,Revenue,29000.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),241,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),241,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),241,Wage,-54.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,241,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,242,Revenue,33000.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),242,Wage,-264.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),242,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),242,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,242,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,243,Revenue,38000.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),243,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),243,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),243,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,243,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,244,Revenue,45000.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),244,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),244,Wage,-72.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),244,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,244,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),245,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),245,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,245,Revenue,38000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,245,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,246,Revenue,55000.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),246,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),246,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,246,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),247,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),247,Wage,-54.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),247,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),247,Wage,-132.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,247,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,247,Revenue,50500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,248,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,256,Revenue,50250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,256,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),256,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),256,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),256,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,257,Revenue,61500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,257,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),257,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),257,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),257,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,258,Revenue,73750.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),258,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),258,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),258,Wage,-216.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,258,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,259,Revenue,64250.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),259,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),259,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,259,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,260,Revenue,57000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,260,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),260,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),260,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,261,Revenue,53750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,261,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),261,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),261,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),261,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),261,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,262,Revenue,45250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,262,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),262,Wage,-66.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),262,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),262,Wage,-54.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),262,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,263,Revenue,53000.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),263,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,263,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),263,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),263,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,264,Revenue,61250.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),264,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),264,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),264,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,264,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,265,Revenue,72750.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),265,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),265,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),265,Wage,-216.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,265,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,266,Revenue,65250.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),266,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),266,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,266,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,267,Revenue,56750.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,267,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),267,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),267,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,268,Revenue,53750.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),268,Wage,-132.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,268,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),268,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),268,Wage,-54.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),268,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,269,Revenue,45250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,269,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),269,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),269,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),269,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),269,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,270,Revenue,53750.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),270,Wage,-264.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),270,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),270,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,270,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,271,Revenue,63250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,271,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),271,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),271,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),271,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,272,Revenue,75250.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),272,Wage,-72.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,272,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),272,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),272,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,273,Revenue,65750.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),273,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),273,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,273,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,274,Revenue,60250.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,274,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),274,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),274,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,275,Revenue,55000.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),275,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),275,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),275,Wage,-132.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,275,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),275,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,276,Revenue,46000.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,276,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),276,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),276,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),276,Wage,-54.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),276,Wage,-66.0,2.0,Elite Couture
+Elite Couture Revenue,277,Revenue,55750.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),277,Wage,-264.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,277,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),277,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),277,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,278,Revenue,61500.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,278,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),278,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),278,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),278,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,279,Revenue,58000.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),279,Wage,-72.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,279,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),279,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),279,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,280,Revenue,101730.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),280,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),280,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,280,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,281,Revenue,86650.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,281,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),281,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),281,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,282,Revenue,78790.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,282,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),282,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),282,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),282,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),282,Wage,-54.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),283,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),283,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),283,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),283,Wage,-54.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,283,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,283,Revenue,66160.0,2.0,Elite Couture
+Elite Couture Revenue,284,Revenue,78790.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),284,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),284,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,284,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),284,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,285,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),285,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),285,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),285,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,285,Revenue,85840.0,2.0,Elite Couture
+Elite Couture Revenue,286,Revenue,100180.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),286,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),286,Wage,-72.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),286,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,286,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,287,Revenue,90010.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,287,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),287,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),287,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,288,Revenue,81400.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,288,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),288,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),288,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,289,Revenue,73540.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),289,Wage,-54.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,289,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),289,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),289,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),289,Wage,-132.0,2.0,Elite Couture
+Elite Couture Revenue,290,Revenue,60930.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,290,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),290,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),290,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),290,Wage,-66.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),290,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,291,Revenue,72800.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,291,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),291,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),291,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),291,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,292,Revenue,83860.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,292,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),292,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),292,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),292,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,293,Revenue,100180.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),293,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),293,Wage,-216.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,293,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),293,Wage,-72.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,294,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,298,Revenue,73540.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,298,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),298,Wage,-264.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),298,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),298,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,299,Revenue,76440.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,299,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),299,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),299,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),299,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,300,Revenue,78130.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,300,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),300,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),300,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),300,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,301,Revenue,90740.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,301,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),301,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),301,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,302,Revenue,81400.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,302,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),302,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),302,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,303,Revenue,73540.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,303,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),303,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),303,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),303,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),303,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,304,Revenue,64560.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,304,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),304,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),304,Wage,-66.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),304,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),304,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,305,Revenue,75940.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,305,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),305,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),305,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),305,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,306,Revenue,88480.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,306,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),306,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),306,Wage,-264.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),306,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,307,Revenue,104020.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,307,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),307,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),307,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),307,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,308,Revenue,92640.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),308,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),308,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,308,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,309,Revenue,82350.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,309,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),309,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),309,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,310,Revenue,74210.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),310,Wage,-132.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,310,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),310,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),310,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),310,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,311,Revenue,64560.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,311,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),311,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),311,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),311,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),311,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,312,Revenue,73980.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,312,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),312,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),312,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),312,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,313,Revenue,88480.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,313,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),313,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),313,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),313,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,314,Revenue,103030.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,314,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),314,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),314,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),314,Wage,-72.0,2.0,Elite Couture
+Elite Couture Revenue,315,Revenue,93380.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),315,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),315,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,315,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,316,Revenue,82320.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,316,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),316,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),316,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,317,Revenue,75940.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,317,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),317,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),317,Wage,-132.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),317,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),317,Wage,-54.0,2.0,Elite Couture
+Elite Couture Revenue,318,Revenue,62160.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,318,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),318,Wage,-54.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),318,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),318,Wage,-66.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),318,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,319,Revenue,73290.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,319,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),319,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),319,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),319,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,320,Revenue,85090.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,320,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),320,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),320,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),320,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,321,Revenue,99450.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,321,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),321,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),321,Wage,-72.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),321,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,322,Revenue,90740.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,322,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),322,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),322,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,323,Revenue,83400.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,323,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),323,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),323,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,324,Revenue,76790.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,324,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),324,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),324,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),324,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),324,Wage,-132.0,2.0,Elite Couture
+Elite Couture Revenue,325,Revenue,24930.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,325,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),325,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),325,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,326,Revenue,75570.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,326,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),326,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),326,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),326,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,327,Revenue,53820.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,327,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),327,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,328,Revenue,104680.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,328,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),328,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),328,Wage,-72.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),328,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,329,Revenue,95490.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,329,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),329,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),329,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,330,Revenue,82920.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,330,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),330,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),330,Wage,-297.0,2.0,Elite Couture
+Elite Couture Revenue,331,Revenue,76290.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,331,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),331,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),331,Wage,-54.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),331,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),331,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),332,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),332,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),332,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),332,Wage,-66.0,2.0,Elite Couture
+Elite Couture Revenue,332,Revenue,65410.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,332,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,333,Revenue,74570.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),333,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),333,Wage,-288.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,333,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),333,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,334,Revenue,88600.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,334,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),334,Wage,-27.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),334,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),334,Wage,-288.0,2.0,Elite Couture
+Elite Couture Revenue,335,Revenue,105430.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,335,Marketing,-1350.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),335,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),335,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),335,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,336,Revenue,95490.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,336,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),336,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),336,Wage,-243.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),337,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),337,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,337,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,337,Revenue,84150.0,2.0,Elite Couture
+Elite Couture Revenue,338,Revenue,73540.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),338,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),338,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),338,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),338,Wage,-132.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,338,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,339,Revenue,62160.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),339,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),339,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),339,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),339,Wage,-54.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,339,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,340,Revenue,75940.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),340,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),340,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),340,Wage,-264.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,340,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,341,Revenue,87760.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,341,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),341,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),341,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),341,Wage,-27.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),342,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),342,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),342,Wage,-72.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,342,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,342,Revenue,99590.0,2.0,Elite Couture
+Elite Couture Revenue,343,Revenue,89730.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),343,Wage,-243.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),343,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,343,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,344,Revenue,83320.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),344,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),344,Wage,-297.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,344,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,345,Revenue,75940.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),345,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),345,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),345,Wage,-216.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),345,Wage,-54.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,345,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,346,Revenue,61890.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),346,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),346,Wage,-216.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),346,Wage,-232.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),346,Wage,-66.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,346,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,347,Revenue,74710.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),347,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),347,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),347,Wage,-27.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,347,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,348,Revenue,87760.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),348,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),348,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),348,Wage,-264.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,348,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,349,Revenue,103300.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),349,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),349,Wage,-72.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),349,Wage,-232.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,349,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),350,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),350,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,350,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,350,Revenue,91460.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,351,Marketing,-1350.0,2.0,Elite Couture
+Elite Couture Revenue,351,Revenue,83320.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),351,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),351,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,352,Revenue,75940.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,352,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),352,Wage,-132.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),352,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),352,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),352,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,353,Revenue,63360.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),353,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),353,Wage,-216.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,353,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),353,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),353,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,354,Revenue,73540.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,354,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),354,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),354,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),354,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,355,Revenue,85840.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,355,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),355,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),355,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),355,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,356,Revenue,98700.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,356,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),356,Wage,-232.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),356,Wage,-72.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),356,Wage,-216.0,2.0,Elite Couture
+Elite Couture Revenue,357,Revenue,89770.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,357,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),357,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),357,Wage,-243.0,2.0,Elite Couture
+Elite Couture Revenue,358,Revenue,81400.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,358,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),358,Wage,-297.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),358,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,359,Revenue,73540.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,359,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),359,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),359,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),359,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),359,Wage,-132.0,2.0,Elite Couture
+Elite Couture Revenue,360,Revenue,62160.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,360,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),360,Wage,-54.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),360,Wage,-216.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),360,Wage,-66.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),360,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,361,Revenue,73540.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,361,Marketing,-1350.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),361,Wage,-264.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),361,Wage,-288.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),361,Wage,-27.0,2.0,Elite Couture
+Elite Couture Revenue,362,Revenue,85840.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,362,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),362,Wage,-27.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),362,Wage,-288.0,2.0,Elite Couture
+Scarlett Davis (Elite Couture Daily Wage),362,Wage,-264.0,2.0,Elite Couture
+Elite Couture Revenue,363,Revenue,100180.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,363,Marketing,-1350.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),363,Wage,-216.0,2.0,Elite Couture
+Lilly Harris (Elite Couture Daily Wage),363,Wage,-72.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),363,Wage,-232.0,2.0,Elite Couture
+Elite Couture Revenue,364,Revenue,90740.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,364,Marketing,-1350.0,2.0,Elite Couture
+Lara Wright (Elite Couture Daily Wage),364,Wage,-232.0,2.0,Elite Couture
+Frederick Kelly (Elite Couture Daily Wage),364,Wage,-243.0,2.0,Elite Couture
+Marketing campaigns for Elite Couture,365,Marketing,-1350.0,2.0,Elite Couture
